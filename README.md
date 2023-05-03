@@ -5,3 +5,5 @@ In this article, we explored the **Decision Tree Regressors** for regression pro
 We used the **CART algorithm** and Python libraries, including **NumPy, pandas, and scikit-learn**, to build our custom decision tree regressor. The implementation involved several key functions, such as `_best_split`, `_mse`, `_terminal_node`, and `_split`, which were used to construct the tree, calculate mean squared error, and make predictions.
 
 We applied our custom implementation to the **Boston Housing dataset** and evaluated its performance using the mean squared error metric. The custom implementation can be further improved or adapted for other tasks, and serves as a foundation for understanding the inner workings of decision tree regressors in real-world applications.
+
+You can access to full article [here](https://medium.com/@s.sadathosseini/understanding-decision-tree-regressors-building-a-custom-implementation-in-python-ef5701aedf43)
