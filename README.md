@@ -6,4 +6,4 @@ We used the **CART algorithm** and Python libraries, including **NumPy, pandas, 
 
 We applied our custom implementation to the **Boston Housing dataset** and evaluated its performance using the mean squared error metric. The custom implementation can be further improved or adapted for other tasks, and serves as a foundation for understanding the inner workings of decision tree regressors in real-world applications.
 
-You can access to full article [here](https://medium.com/@s.sadathosseini/understanding-decision-tree-regressors-building-a-custom-implementation-in-python-ef5701aedf43)
+You can access to full article [here](https://medium.com/@s.sadathosseini/understanding-decision-tree-regressors-building-a-custom-implementation-in-python-ef5701aedf43).
